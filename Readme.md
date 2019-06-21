@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxCardView - How to update total summaries on the client side in Batch Edit mode
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t341595/)**
+<!-- run online end -->
 
 
 This example demonstrates how to update total summaries on the client side when ASPxCardView is in Batch Edit mode.
